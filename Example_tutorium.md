@@ -3,6 +3,7 @@ Material vorher austeilen
 
 # Hypothetische Tutorium
 ## Einstieg
+> 15 Minuten
 #### Was hat euch im letzten Tutorium gefehlt? 
 #### Welche Aufgaben haben euch Probleme gemacht?
 > 2 Minuten mit Nebensitzer besprechen, dann Fragen an mich
@@ -24,6 +25,7 @@ Material vorher austeilen
 --------------------------------------------------
 
 ### Arbeitsphase:
+> 60 min
 #### falsches Verständnis aus den Hausaufgaben aufklären
 - Unterschiede und Bewegen zwischen Working area, Staging Area, Repo
 - Unterschied Commit, Snapshot, Datei
@@ -54,6 +56,7 @@ Material vorher austeilen
 
 --------------------------
 ### Abschluss
+> 15 min
 #### Rückblick über Themen
 > Vortrag
 - Branching
@@ -69,3 +72,7 @@ Material vorher austeilen
 - VL fällt aus
 - nächstes Tutorium nochmal advanced git
 - Fokus: Usage of remotes
+
+### Posttutorium / Sprechstunde
+> 15 min
+Einzelhilfe im 1:1 Gespräch wer möchte
