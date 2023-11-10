@@ -5,7 +5,7 @@ Material vorher austeilen
 ## Einstieg
 #### Was hat euch im letzten Tutorium gefehlt? 
 #### Welche Aufgaben haben euch Probleme gemacht?
-    2 Minuten mit Nebensitzer besprechen
+2 Minuten mit Nebensitzer besprechen
 #### Rückblick, was haben wir letztes mal gelernt:
 - basic git usage: init, add, commit, remove, restore, reset, checkout, log, status, blame
 - Working area, Staging Area, Repo
