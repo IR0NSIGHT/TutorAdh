@@ -36,7 +36,7 @@ Material vorher austeilen
 - Commit Graph zeichnen, verstehen, Parents
 
 #### Übungsaufgaben durchgehen: (Peyton Methode)
->> Vormachen Schritt für Schritt mit Erläuterung
+>> Vormachen Schritt für Schritt mit Erläuterung  
  Selber ausprobieren lassen im git spiel https://learngitbranching.js.org/?locale=de_DE   
  Hilfestellung direkt für Kleinstgruppen  
  frontal Lösung nochmal anmalen  
