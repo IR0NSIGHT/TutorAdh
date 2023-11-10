@@ -39,14 +39,15 @@ Material vorher austeilen
  frontal Lösung nochmal anmalen  
  Rückfragen beantworten  
 >>
-##### Branching
-##### Mergen können
-##### Rebasen können
-##### Merge conflicts auflösen
-##### Remotes nutzen
+- Branching
+- Mergen können
+- Rebasen können
+- Merge conflicts auflösen
+- Remotes nutzen
 
 #### Hausaufgabe erklären
 > Vortrag mit Folie (Hausaufgabe)
+Studenten müssen:
 - In Teams in Remotes zusammen arbeiten
 - Issues abarbeiten
 - PR mergen
