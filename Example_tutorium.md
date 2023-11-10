@@ -5,14 +5,16 @@ Material vorher austeilen
 ## Einstieg
 #### Was hat euch im letzten Tutorium gefehlt? 
 #### Welche Aufgaben haben euch Probleme gemacht?
-2 Minuten mit Nebensitzer besprechen
+> 2 Minuten mit Nebensitzer besprechen, dann Fragen an mich
 #### Rückblick, was haben wir letztes mal gelernt:
+> Vortrag mit Tafelanschrieb
 - basic git usage: init, add, commit, remove, restore, reset, checkout, log, status, blame
 - Working area, Staging Area, Repo
 - Commit Graph
 - Unterschied Commit, Snapshot, Datei
 
 #### Lernziele aufzählen
+> Vortrag mit Folie
 -   Branching und Branch wechseln (durchführen können)
 -   Mergen ohne Konflikt (können)
 -   Rebasen (wissen wie)
@@ -29,11 +31,11 @@ Material vorher austeilen
 - Commit Graph zeichnen, verstehen, Parents
 
 #### Übungsaufgaben durchgehen: (Peyton Methode)
-- Vormachen Schritt für Schritt mit Erläuterung
-- Selber ausprobieren lassen im git spiel https://learngitbranching.js.org/?locale=de_DE 
-- Hilfestellung
-- frontal Lösung nochmal anmalen und Option für Rückfragen geben
-
+> Vormachen Schritt für Schritt mit Erläuterung
+> Selber ausprobieren lassen im git spiel https://learngitbranching.js.org/?locale=de_DE 
+> Hilfestellung direkt für Kleinstgruppen
+> frontal Lösung nochmal anmalen
+> Rückfragen beantworten
 ##### Branching
 ##### Mergen können
 ##### Rebasen können
@@ -41,6 +43,7 @@ Material vorher austeilen
 ##### Remotes nutzen
 
 #### Hausaufgabe erklären
+> Vortrag mit Folie (Hausaufgabe)
 - In Teams in Remotes zusammen arbeiten
 - Issues abarbeiten
 - PR mergen
@@ -51,14 +54,17 @@ Material vorher austeilen
 --------------------------
 ### Abschluss
 #### Rückblick über Themen
+> Vortrag
 - Branching
 - Mergen können
 - Rebasen können
 - Merge conflicts auflösen
 - Remotes nutzen
 
-#### Fragen sammeln zu Lernzielen (Murmelgruppe)
-Ausblick auf Themen d. Vorlesung/Hausaufgaben der nächsten Woche
+#### Fragen sammeln zu Lernzielen 
+> Murmelgruppe
+#### Ausblick auf Themen d. Vorlesung/Hausaufgaben der nächsten Woche
+> Vortrag
 - VL fällt aus
 - nächstes Tutorium nochmal advanced git
 - Fokus: Usage of remotes
